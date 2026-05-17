@@ -205,6 +205,8 @@
         <button class="nav-button" data-view="hot">Hot Leads</button>
         <button class="nav-button" data-view="followups">Follow-ups Due</button>
         <button class="nav-button" data-view="watched">Watched Not Closed</button>
+        <button class="nav-button" data-view="customers">Customers</button>
+        <button class="nav-button" data-view="ibos">IBOs</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
       </div>
@@ -613,6 +615,8 @@
         case 'hot': return leads.filter(l => l.temperature === 'Hot');
         case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp));
         case 'watched': return leads.filter(l => l.status === 'Watched');
+        case 'customers': return leads.filter(l => l.status === 'Customer');
+        case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
         default: return leads;
       }
@@ -670,6 +674,8 @@
         hot: 'Hot Leads',
         followups: 'Follow-ups Due',
         watched: 'Watched Not Closed',
+        customers: 'Customers',
+        ibos: 'IBOs',
         nurture: 'Nurture'
       };
       document.getElementById('view-title').textContent = titles[currentView];
@@ -716,13 +722,11 @@
 
     function getStatusColor(status) {
       const colors = {
-        'Closed Won': '#10b981',
-        'Closed Lost': '#ef4444',
         'Watched': '#3b82f6',
         'New Lead': '#6b7280',
         'Prospect': '#f59e0b',
-        'Proposal Sent': '#8b5cf6',
-        'Contract Sent': '#ec4899',
+        'Customer': '#10b981',
+        'IBO': '#8b5cf6',
         'Nurture': '#06b6d4'
       };
       return colors[status] || '#6b7280';
