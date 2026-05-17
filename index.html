@@ -850,10 +850,19 @@
       countInput.addEventListener('input', autoCalculateDates);
     }
     
+    function getTodayPacific() {
+      const now = new Date();
+      const pacific = new Date(now.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
+      const year = pacific.getFullYear();
+      const month = String(pacific.getMonth() + 1).padStart(2, '0');
+      const day = String(pacific.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+    
     function autoCalculateDates() {
       const count = parseInt(document.getElementById('lead-followup-count').value) || 0;
       if (count > 0) {
-        const today = new Date().toISOString().split('T')[0];
+        const today = getTodayPacific();
         const nextFollowUp = calculateNextFollowUp(count, today);
         
         document.getElementById('lead-last-contact').value = today;
@@ -874,7 +883,7 @@
     async function saveLead(e) {
       e.preventDefault();
       
-      const now = new Date().toISOString().split('T')[0];
+      const now = getTodayPacific();
       const leadData = {
         id: editingId || Date.now().toString(36) + Math.random().toString(36).substr(2),
         name: document.getElementById('lead-name').value,
@@ -939,7 +948,7 @@
       const lead = leads.find(l => l.id === id);
       if (!lead) return;
 
-      const now = new Date().toISOString().split('T')[0];
+      const now = getTodayPacific();
       const newCount = lead.followUpCount + 1;
       const actions = ['Follow-up 1', 'Follow-up 2', 'Follow-up 3', 'Follow-up 4', 'Follow-up 5', 'Follow-up 6+'];
 
