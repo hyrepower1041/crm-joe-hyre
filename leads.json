@@ -159,7 +159,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbr1h21b9f3rahk5v7",
+      "name": "Alex Clark",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alex.clark.669046",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T21:59:25.577Z"
+  "lastUpdated": "2026-05-18T22:01:54.841Z"
 }
