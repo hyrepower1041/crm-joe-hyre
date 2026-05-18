@@ -255,7 +255,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbrjsfwczzrugqxpfg",
+      "name": "Mario Tuzzo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mariotuzzo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T22:14:57.330Z"
+  "lastUpdated": "2026-05-18T22:16:09.404Z"
 }
