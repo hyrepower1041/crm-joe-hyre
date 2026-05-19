@@ -335,7 +335,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpcu4hsi9sltbazgh7",
+      "name": "Scott Sail",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sailawaywithscott",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T16:14:50.480Z"
+  "lastUpdated": "2026-05-19T16:16:00.786Z"
 }
