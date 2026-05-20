@@ -719,7 +719,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpeljip7i16ji93gtpm",
+      "name": "Todd Conell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/todd.connell.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T21:37:29.164Z"
+  "lastUpdated": "2026-05-20T21:51:17.611Z"
 }
