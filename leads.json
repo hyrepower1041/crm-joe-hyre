@@ -279,13 +279,13 @@
       "phone": "",
       "social": "https://www.facebook.com/RainmakerGFI",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-20",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
       "notes": "",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-20",
       "dateAdded": "2026-05-18"
     },
     {
@@ -721,5 +721,5 @@
       "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-20T21:00:37.849Z"
+  "lastUpdated": "2026-05-20T21:01:59.208Z"
 }
