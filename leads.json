@@ -801,7 +801,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-20T22:04:13.974Z"
+    },
+    {
+      "id": "mpem18rlb2h6xr3hq6a",
+      "name": "Alex Kerecki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Alexxia.K",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-20T22:05:04.545Z"
     }
   ],
-  "lastUpdated": "2026-05-20T22:04:13.975Z"
+  "lastUpdated": "2026-05-20T22:05:04.545Z"
 }
