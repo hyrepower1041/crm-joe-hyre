@@ -1346,7 +1346,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T23:54:01.081Z"
+    },
+    {
+      "id": "mpg5e27teb8tve2jjat",
+      "name": "John Crane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.crane.3158652",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T23:54:41.465Z"
     }
   ],
-  "lastUpdated": "2026-05-21T23:54:01.081Z"
+  "lastUpdated": "2026-05-21T23:54:41.465Z"
 }
