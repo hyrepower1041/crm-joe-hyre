@@ -983,12 +983,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-20",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-05-22",
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T00:57:12.724Z"
     }
   ],
-  "lastUpdated": "2026-05-21T00:57:12.724Z"
+  "lastUpdated": "2026-05-21T00:57:20.278Z"
 }
