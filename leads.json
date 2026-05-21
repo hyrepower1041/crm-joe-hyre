@@ -1073,7 +1073,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:04:56.076Z"
+    },
+    {
+      "id": "mpesinyl66v08mx0h9w",
+      "name": "David Walker ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thedavidwalker",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:06:35.085Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:06:21.943Z"
+  "lastUpdated": "2026-05-21T01:06:35.085Z"
 }
