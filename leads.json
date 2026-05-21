@@ -1141,7 +1141,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:09:27.467Z"
+    },
+    {
+      "id": "mpesqm5fckjjtdhsd5e",
+      "name": "Joyce Segers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JoyceLSegers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:12:45.987Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:09:27.467Z"
+  "lastUpdated": "2026-05-21T01:12:45.987Z"
 }
