@@ -1209,7 +1209,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:16:43.340Z"
+    },
+    {
+      "id": "mpesxcvxh9pj94fjxjt",
+      "name": "Vinh Han",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vinh.han.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:18:00.573Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:16:43.340Z"
+  "lastUpdated": "2026-05-21T01:18:00.573Z"
 }
