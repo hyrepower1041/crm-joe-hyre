@@ -1703,7 +1703,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-22T00:15:19.452Z"
+    },
+    {
+      "id": "mpg65chzj283t3s6lzn",
+      "name": "Bob Sidhu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bob.sidhu.964193",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-22T00:15:54.503Z"
     }
   ],
-  "lastUpdated": "2026-05-22T00:15:19.452Z"
+  "lastUpdated": "2026-05-22T00:15:54.503Z"
 }
