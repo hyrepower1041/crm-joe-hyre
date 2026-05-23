@@ -1721,7 +1721,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T00:55:16.696Z"
+    },
+    {
+      "id": "mphn0lliy40x78jaes",
+      "name": "Jason Neu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.neu.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T00:55:52.662Z"
     }
   ],
-  "lastUpdated": "2026-05-23T00:55:16.696Z"
+  "lastUpdated": "2026-05-23T00:55:52.662Z"
 }
