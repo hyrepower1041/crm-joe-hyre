@@ -1619,7 +1619,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T00:46:52.474Z"
+    },
+    {
+      "id": "mphms7zks6jsc39qgmf",
+      "name": "Sammy Pacyau",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sammy.pacyau.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T00:49:21.776Z"
     }
   ],
-  "lastUpdated": "2026-05-23T00:46:52.474Z"
+  "lastUpdated": "2026-05-23T00:49:21.776Z"
 }
