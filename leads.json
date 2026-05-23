@@ -1874,7 +1874,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:07:04.117Z"
+    },
+    {
+      "id": "mphnh7i6axqnx99cy",
+      "name": "Bill Yeager",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bill.yeager.100046",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-24",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-23T01:08:47.550Z"
     }
   ],
-  "lastUpdated": "2026-05-23T01:07:04.117Z"
+  "lastUpdated": "2026-05-23T01:08:47.550Z"
 }
