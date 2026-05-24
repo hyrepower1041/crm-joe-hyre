@@ -1529,13 +1529,13 @@
       "phone": "",
       "social": "https://www.facebook.com/rens.hoekstra.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-24",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-05-27",
       "notes": "",
-      "lastModified": "2026-05-22",
+      "lastModified": "2026-05-24",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:04:54.186Z"
     },
@@ -1642,5 +1642,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-24T23:49:19.321Z"
+  "lastUpdated": "2026-05-24T23:49:54.456Z"
 }
