@@ -1404,23 +1404,6 @@
       "addedAt": "2026-05-23T00:50:02.459Z"
     },
     {
-      "id": "mphmu3zqhxrxluo869q",
-      "name": "Steve H. Mills",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/stevemillsfunding",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-24",
-      "notes": "",
-      "lastModified": "2026-05-22",
-      "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T00:50:49.910Z"
-    },
-    {
       "id": "mphmwvwjbtwushvc6q",
       "name": "Louis Calvin Dodson",
       "email": "",
@@ -1676,5 +1659,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-24T23:40:43.794Z"
+  "lastUpdated": "2026-05-24T23:42:24.179Z"
 }
