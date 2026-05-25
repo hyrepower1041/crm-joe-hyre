@@ -1640,7 +1640,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T18:35:57.783Z"
+    },
+    {
+      "id": "mplky9v5b6x31deey1g",
+      "name": "Leslie Carter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leslie.carter.366218",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T19:09:09.617Z"
     }
   ],
-  "lastUpdated": "2026-05-25T18:35:57.783Z"
+  "lastUpdated": "2026-05-25T19:09:09.617Z"
 }
