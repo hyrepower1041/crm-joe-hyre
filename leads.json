@@ -1878,7 +1878,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:59:30.502Z"
+    },
+    {
+      "id": "mplr2khk4soks8zqsp5",
+      "name": "Jim Gomes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.gomes64",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T22:00:27.704Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:59:30.502Z"
+  "lastUpdated": "2026-05-25T22:00:27.704Z"
 }
