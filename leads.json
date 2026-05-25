@@ -1691,7 +1691,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:48:17.750Z"
+    },
+    {
+      "id": "mplqplbcvzqsn4236da",
+      "name": "Steve Goforth",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.goforth.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:50:22.248Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:48:17.750Z"
+  "lastUpdated": "2026-05-25T21:50:22.248Z"
 }
