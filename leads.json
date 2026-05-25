@@ -1115,23 +1115,6 @@
       "addedAt": "2026-05-22T00:03:02.908Z"
     },
     {
-      "id": "mpg5q9bi62hqoh1e90w",
-      "name": "Ralph Lindenberger",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/RalphLindenberger",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-05-25",
-      "notes": "",
-      "lastModified": "2026-05-23",
-      "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:04:10.542Z"
-    },
-    {
       "id": "mpg5r5ottknjqjxflq",
       "name": "Carol Braund",
       "email": "",
@@ -1642,5 +1625,5 @@
       "addedAt": "2026-05-25T19:09:09.617Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:20:04.452Z"
+  "lastUpdated": "2026-05-25T21:20:46.651Z"
 }
