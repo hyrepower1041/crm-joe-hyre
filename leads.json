@@ -1640,7 +1640,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:45:51.217Z"
+    },
+    {
+      "id": "mplqkmx61goeiezpk5q",
+      "name": "Robert Shindoll",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.shindoll",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:46:31.050Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:45:51.217Z"
+  "lastUpdated": "2026-05-25T21:46:31.050Z"
 }
