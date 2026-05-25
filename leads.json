@@ -1589,7 +1589,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T19:09:09.617Z"
+    },
+    {
+      "id": "mplqg9xbajzfzfvkmfv",
+      "name": "Carlos Fletes Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cfletesjr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:43:07.583Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:30:34.104Z"
+  "lastUpdated": "2026-05-25T21:43:07.583Z"
 }
