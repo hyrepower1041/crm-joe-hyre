@@ -1997,7 +1997,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T15:08:45.140Z"
+    },
+    {
+      "id": "mpn9eq72rqhbl5d251p",
+      "name": "Kirby Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kirby.howe",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:21:34.239Z"
     }
   ],
-  "lastUpdated": "2026-05-26T15:08:45.140Z"
+  "lastUpdated": "2026-05-26T23:21:34.239Z"
 }
