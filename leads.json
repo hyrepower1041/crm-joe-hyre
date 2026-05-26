@@ -2133,7 +2133,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:30:11.598Z"
+    },
+    {
+      "id": "mpn9qwtm6n4z515bjv8",
+      "name": "Derron Duncan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derron.duncan.388919",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:31:02.699Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:30:11.598Z"
+  "lastUpdated": "2026-05-26T23:31:02.699Z"
 }
