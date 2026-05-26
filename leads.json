@@ -2337,7 +2337,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:46:04.140Z"
+    },
+    {
+      "id": "mpnacdvip2wp85al40o",
+      "name": "James Wal Hamley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jameswal.hamley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:47:44.574Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:46:04.140Z"
+  "lastUpdated": "2026-05-26T23:47:44.574Z"
 }
