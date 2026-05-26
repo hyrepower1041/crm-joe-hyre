@@ -2252,7 +2252,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:38:47.007Z"
+    },
+    {
+      "id": "mpna2nfdq7crevi2k0a",
+      "name": "Dave Manning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/davidmanning",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:40:10.393Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:38:47.007Z"
+  "lastUpdated": "2026-05-26T23:40:10.393Z"
 }
