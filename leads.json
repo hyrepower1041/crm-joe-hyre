@@ -2320,7 +2320,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:45:18.935Z"
+    },
+    {
+      "id": "mpnaa8do2vmqe9wxp83",
+      "name": "Lance Mudd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lance.muddiman.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:46:04.140Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:45:18.935Z"
+  "lastUpdated": "2026-05-26T23:46:04.140Z"
 }
