@@ -951,13 +951,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jeffjw.harris",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:16:43.340Z"
     },
@@ -2390,5 +2390,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T14:30:49.215Z"
+  "lastUpdated": "2026-05-27T14:32:57.943Z"
 }
