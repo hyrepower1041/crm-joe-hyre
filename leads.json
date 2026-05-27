@@ -1435,7 +1435,8 @@
       "notes": "",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:04:54.186Z"
+      "addedAt": "2026-05-23T01:04:54.186Z",
+      "videoSent": true
     },
     {
       "id": "mphndfs56th0b704n2a",
@@ -2395,5 +2396,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T21:56:19.824Z"
+  "lastUpdated": "2026-05-27T21:56:24.922Z"
 }
