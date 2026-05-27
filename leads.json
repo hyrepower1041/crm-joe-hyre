@@ -254,8 +254,9 @@
       "lastContact": "2026-05-25",
       "nextFollowUp": "2026-05-28",
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbrlaylv64qkkcm3af",
@@ -2401,5 +2402,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T21:57:03.257Z"
+  "lastUpdated": "2026-05-27T21:57:11.691Z"
 }
