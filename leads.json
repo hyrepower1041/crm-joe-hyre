@@ -856,15 +856,16 @@
       "phone": "",
       "social": "https://www.facebook.com/spencer.williams.3726",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-21T01:03:31.482Z"
+      "addedAt": "2026-05-21T01:03:31.482Z",
+      "videoSent": false
     },
     {
       "id": "mpesgjkcnraf3h8adr",
@@ -2409,5 +2410,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:41:38.659Z"
+  "lastUpdated": "2026-05-27T22:42:05.677Z"
 }
