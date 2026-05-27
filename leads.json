@@ -591,14 +591,15 @@
       "phone": "",
       "social": "https://www.facebook.com/ecthompson",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpd8a97g5iq4dksm46f",
@@ -2420,5 +2421,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:59:44.799Z"
+  "lastUpdated": "2026-05-27T23:00:37.550Z"
 }
