@@ -2448,8 +2448,8 @@
       "phone": "",
       "social": "https://www.facebook.com/derek.sutton1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
@@ -2478,5 +2478,5 @@
       "addedAt": "2026-05-28T02:10:36.112Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:10:36.112Z"
+  "lastUpdated": "2026-05-28T02:13:14.827Z"
 }
