@@ -2530,7 +2530,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:18:48.193Z"
+    },
+    {
+      "id": "mpov8cxflqpjucyfn5",
+      "name": "Brendon Pilgrim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61559622314350",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:20:14.835Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:18:48.193Z"
+  "lastUpdated": "2026-05-28T02:20:14.835Z"
 }
