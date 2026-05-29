@@ -2645,7 +2645,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:50:02.578Z"
+    },
+    {
+      "id": "mprc70ixuelz2dlqcj",
+      "name": "Greg Beehler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/humanity.first.investments",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:50:37.929Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:50:02.578Z"
+  "lastUpdated": "2026-05-29T19:50:37.929Z"
 }
