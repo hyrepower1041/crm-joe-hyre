@@ -2699,7 +2699,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:52:43.595Z"
+    },
+    {
+      "id": "mprcar7h26asq4v2q7x",
+      "name": "Jenn Olofsonn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100095075831151",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:53:32.477Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:52:43.595Z"
+  "lastUpdated": "2026-05-29T19:53:32.477Z"
 }
