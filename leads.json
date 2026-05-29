@@ -2022,15 +2022,16 @@
       "phone": "",
       "social": "https://www.facebook.com/natepriceofficial",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:28:18.113Z"
+      "addedAt": "2026-05-26T23:28:18.113Z",
+      "videoSent": false
     },
     {
       "id": "mpn9oa3vntqfpi0k4vm",
@@ -2626,5 +2627,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:44:40.845Z"
+  "lastUpdated": "2026-05-29T00:45:30.228Z"
 }
