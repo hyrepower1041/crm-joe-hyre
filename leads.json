@@ -1148,15 +1148,16 @@
       "phone": "",
       "social": "https://www.facebook.com/AlexSebastianKing",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:06:52.962Z"
+      "addedAt": "2026-05-22T00:06:52.962Z",
+      "videoSent": false
     },
     {
       "id": "mpg5uvt5l5g158r1ep",
@@ -2624,5 +2625,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:01:17.643Z"
+  "lastUpdated": "2026-05-29T01:02:19.310Z"
 }
