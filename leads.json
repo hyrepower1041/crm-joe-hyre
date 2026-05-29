@@ -1542,15 +1542,16 @@
       "phone": "",
       "social": "https://www.facebook.com/cdbraund",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T17:02:58.870Z"
+      "addedAt": "2026-05-23T17:02:58.870Z",
+      "videoSent": false
     },
     {
       "id": "mpljrkyf9r679j3pebg",
@@ -2631,5 +2632,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:49:44.584Z"
+  "lastUpdated": "2026-05-29T00:50:34.235Z"
 }
