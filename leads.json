@@ -3023,7 +3023,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:18:21.551Z"
+    },
+    {
+      "id": "mprd7izeqeul5ftci7",
+      "name": "Shawn A. White",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shawn.a.white.984284",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:19:01.466Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:18:21.551Z"
+  "lastUpdated": "2026-05-29T20:19:01.466Z"
 }
