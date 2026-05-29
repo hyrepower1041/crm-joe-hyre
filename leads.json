@@ -482,13 +482,13 @@
       "phone": "",
       "social": "https://www.facebook.com/riven.wolf.613343",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -2637,5 +2637,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:17:50.274Z"
+  "lastUpdated": "2026-05-29T01:19:26.296Z"
 }
