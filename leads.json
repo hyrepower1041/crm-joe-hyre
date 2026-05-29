@@ -2951,7 +2951,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:15:33.966Z"
+    },
+    {
+      "id": "mprd3ticm4y21jaaz9o",
+      "name": "Greg Grigsby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/greg.grigsby.308870",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:16:08.484Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:15:33.966Z"
+  "lastUpdated": "2026-05-29T20:16:08.484Z"
 }
