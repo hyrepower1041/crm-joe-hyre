@@ -2362,15 +2362,16 @@
       "phone": "",
       "social": "https://www.facebook.com/GregNAab",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:55:08.247Z"
+      "addedAt": "2026-05-26T23:55:08.247Z",
+      "videoSent": true
     },
     {
       "id": "mpnao31amsqoyescmhd",
@@ -2624,5 +2625,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:26:43.651Z"
+  "lastUpdated": "2026-05-29T00:27:25.302Z"
 }
