@@ -1988,15 +1988,16 @@
       "phone": "",
       "social": "https://www.facebook.com/cassandra.gordon.92372",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:25:16.208Z"
+      "addedAt": "2026-05-26T23:25:16.208Z",
+      "videoSent": false
     },
     {
       "id": "mpn9kt7hdrwvqfcr84a",
@@ -2628,5 +2629,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:46:18.847Z"
+  "lastUpdated": "2026-05-29T00:47:11.781Z"
 }
