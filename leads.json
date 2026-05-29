@@ -2717,7 +2717,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:53:32.477Z"
+    },
+    {
+      "id": "mprcbseebg70q870r0p",
+      "name": "John Speller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/johnspeller.property",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:54:20.678Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:53:32.477Z"
+  "lastUpdated": "2026-05-29T19:54:20.678Z"
 }
