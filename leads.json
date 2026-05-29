@@ -2254,23 +2254,6 @@
       "addedAt": "2026-05-26T23:44:05.998Z"
     },
     {
-      "id": "mpna99hz95on2ijrzv",
-      "name": "Samuel John Moses",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/samm.mosses.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
-      "notes": "",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:45:18.935Z"
-    },
-    {
       "id": "mpnaa8do2vmqe9wxp83",
       "name": "Lance Mudd",
       "email": "",
@@ -2630,5 +2613,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:32:38.825Z"
+  "lastUpdated": "2026-05-29T00:33:17.092Z"
 }
