@@ -2613,17 +2613,17 @@
       "phone": "",
       "social": "https://www.facebook.com/DjAngelis",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:24:43.203Z"
+  "lastUpdated": "2026-05-29T19:30:13.348Z"
 }
