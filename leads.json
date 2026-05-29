@@ -1345,15 +1345,16 @@
       "phone": "",
       "social": "https://www.facebook.com/louis.calvin.dodson",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T00:52:59.395Z"
+      "addedAt": "2026-05-23T00:52:59.395Z",
+      "videoSent": false
     },
     {
       "id": "mphmyfh0k7io7euainj",
@@ -2627,5 +2628,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:37:46.640Z"
+  "lastUpdated": "2026-05-29T19:39:14.741Z"
 }
