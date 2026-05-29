@@ -2969,7 +2969,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:16:08.484Z"
+    },
+    {
+      "id": "mprd4qs1cxq8t5ydobf",
+      "name": "Anna McLean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Anna4WSA",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:16:51.601Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:16:08.484Z"
+  "lastUpdated": "2026-05-29T20:16:51.601Z"
 }
