@@ -2897,7 +2897,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:11:13.583Z"
+    },
+    {
+      "id": "mprcyrglb9p00jui6o5",
+      "name": "Brian Weyers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.weyers.25248",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:12:12.549Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:11:13.583Z"
+  "lastUpdated": "2026-05-29T20:12:12.549Z"
 }
