@@ -2681,7 +2681,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:51:22.627Z"
+    },
+    {
+      "id": "mprc9phnt6j28b3mz9e",
+      "name": "Matthew Madden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100095089765751",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:52:43.595Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:51:22.627Z"
+  "lastUpdated": "2026-05-29T19:52:43.595Z"
 }
