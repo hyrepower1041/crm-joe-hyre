@@ -2843,7 +2843,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:05:36.943Z"
+    },
+    {
+      "id": "mprcr6vwpz2m3kjwiwf",
+      "name": "Bailey McCormick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bailey.mccormick.162923",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:06:19.292Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:05:36.943Z"
+  "lastUpdated": "2026-05-29T20:06:19.292Z"
 }
