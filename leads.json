@@ -1746,15 +1746,16 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61578104240863",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T21:53:20.715Z"
+      "addedAt": "2026-05-25T21:53:20.715Z",
+      "videoSent": false
     },
     {
       "id": "mplqu8d8k91v5iqrm4",
@@ -3538,5 +3539,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:58:10.451Z"
+  "lastUpdated": "2026-05-30T15:58:49.485Z"
 }
