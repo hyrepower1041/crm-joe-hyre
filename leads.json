@@ -3964,7 +3964,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T22:23:55.204Z"
+    },
+    {
+      "id": "mpsx5jh2odwwbkxlm3h",
+      "name": "Jeff Webster",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Jeff.Webster13",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T22:25:07.286Z"
     }
   ],
-  "lastUpdated": "2026-05-30T22:23:55.204Z"
+  "lastUpdated": "2026-05-30T22:25:07.286Z"
 }
