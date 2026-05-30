@@ -3473,7 +3473,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:36:26.226Z"
+    },
+    {
+      "id": "mprokin26nqrhsv6pin",
+      "name": "Michael Whitaker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100091906774313",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:37:03.326Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:36:26.226Z"
+  "lastUpdated": "2026-05-30T01:37:03.326Z"
 }
