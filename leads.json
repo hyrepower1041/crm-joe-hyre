@@ -3131,7 +3131,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:19:07.399Z"
+    },
+    {
+      "id": "mprny6qkkfb4qicc7g",
+      "name": "Yvette Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100092995390207",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:19:41.468Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:19:07.399Z"
+  "lastUpdated": "2026-05-30T01:19:41.468Z"
 }
