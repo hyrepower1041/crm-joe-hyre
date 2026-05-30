@@ -1488,15 +1488,16 @@
       "phone": "",
       "social": "https://www.facebook.com/roy.bush.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:06:26.950Z"
+      "addedAt": "2026-05-23T01:06:26.950Z",
+      "videoSent": false
     },
     {
       "id": "mphnh7i6axqnx99cy",
@@ -3550,5 +3551,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T16:11:13.088Z"
+  "lastUpdated": "2026-05-30T16:12:05.555Z"
 }
