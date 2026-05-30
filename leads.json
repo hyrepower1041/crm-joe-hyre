@@ -4072,7 +4072,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T22:29:43.801Z"
+    },
+    {
+      "id": "mpsxc2derfavr2bdpp",
+      "name": "Ayush Jain",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ayush.jain.188392",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T22:30:11.714Z"
     }
   ],
-  "lastUpdated": "2026-05-30T22:29:43.801Z"
+  "lastUpdated": "2026-05-30T22:30:11.714Z"
 }
