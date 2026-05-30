@@ -3113,7 +3113,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:18:23.567Z"
+    },
+    {
+      "id": "mprnxgg77ypjxc4g5lw",
+      "name": "Sarkis Chuldjian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarkis.chuldjian.cht.tft",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:19:07.399Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:18:23.567Z"
+  "lastUpdated": "2026-05-30T01:19:07.399Z"
 }
