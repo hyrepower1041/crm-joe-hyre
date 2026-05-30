@@ -1678,15 +1678,16 @@
       "phone": "",
       "social": "https://www.facebook.com/yolandakennerlyalignmethod333",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T21:48:17.750Z"
+      "addedAt": "2026-05-25T21:48:17.750Z",
+      "videoSent": false
     },
     {
       "id": "mplqplbcvzqsn4236da",
@@ -3542,5 +3543,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T16:03:00.003Z"
+  "lastUpdated": "2026-05-30T16:03:36.686Z"
 }
