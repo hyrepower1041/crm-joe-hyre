@@ -3365,7 +3365,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:28:56.355Z"
+    },
+    {
+      "id": "mprob2uje3gni7is495",
+      "name": "Andre Shepherd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andre.shepherd.807473",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:29:42.955Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:28:56.355Z"
+  "lastUpdated": "2026-05-30T01:29:42.955Z"
 }
