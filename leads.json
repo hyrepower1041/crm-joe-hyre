@@ -4522,7 +4522,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:46:46.885Z"
+    },
+    {
+      "id": "mpufj7o34311rnszbrw",
+      "name": "Laura Barnes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100088888234814",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:47:24.435Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:46:46.885Z"
+  "lastUpdated": "2026-05-31T23:47:24.435Z"
 }
