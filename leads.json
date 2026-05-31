@@ -4396,7 +4396,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:07:18.875Z"
+    },
+    {
+      "id": "mpue5g5f59mnj7xh5yp",
+      "name": "Assana Colubali",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089173796557",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:08:42.627Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:07:18.875Z"
+  "lastUpdated": "2026-05-31T23:08:42.627Z"
 }
