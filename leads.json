@@ -4468,7 +4468,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:17:34.261Z"
+    },
+    {
+      "id": "mpufgxc7xmdfv3fld8o",
+      "name": "Kelli Verbosh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelli.verbosh.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:45:37.735Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:17:34.261Z"
+  "lastUpdated": "2026-05-31T23:45:37.735Z"
 }
