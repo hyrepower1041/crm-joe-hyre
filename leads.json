@@ -4126,7 +4126,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:45:46.590Z"
+    },
+    {
+      "id": "mpub7rw21spylx1phow",
+      "name": "Sergio Anselmo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sergio.anselmo.839177",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:46:32.306Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:45:46.590Z"
+  "lastUpdated": "2026-05-31T21:46:32.306Z"
 }
