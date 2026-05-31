@@ -2481,11 +2481,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-05-31",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:09:32.961Z"
     },
@@ -2509,7 +2509,7 @@
     },
     {
       "id": "mpov4l8ih9ub3t9emkv",
-      "name": "Arild Bjørnestad",
+      "name": "Arild BjÃ¸rnestad",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/abbjornestad83",
@@ -3949,7 +3949,7 @@
     },
     {
       "id": "mpsx3zus2mqywsdjm3",
-      "name": "Finca El Tuc�n",
+      "name": "Finca El Tucán",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/finca.el.tucan",
@@ -4092,5 +4092,5 @@
       "addedAt": "2026-05-30T22:30:11.714Z"
     }
   ],
-  "lastUpdated": "2026-05-30T22:30:11.714Z"
+  "lastUpdated": "2026-05-31T18:08:17.302Z"
 }
