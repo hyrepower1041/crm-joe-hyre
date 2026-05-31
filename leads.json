@@ -4234,7 +4234,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:51:53.795Z"
+    },
+    {
+      "id": "mpubkjmruccs8j4hppb",
+      "name": "Jess Butler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089561859345",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:56:28.131Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:51:53.795Z"
+  "lastUpdated": "2026-05-31T21:56:28.131Z"
 }
