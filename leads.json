@@ -4198,7 +4198,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:49:30.676Z"
+    },
+    {
+      "id": "mpubdxyne3tv2swc3x5",
+      "name": "Lianne Valle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lianne.valle.968207",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:51:20.111Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:49:30.676Z"
+  "lastUpdated": "2026-05-31T21:51:20.111Z"
 }
