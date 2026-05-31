@@ -2064,13 +2064,13 @@
       "phone": "",
       "social": "https://www.facebook.com/darrell.pfiffner",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-31",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:28:59.947Z",
       "videoSent": false
@@ -4092,5 +4092,5 @@
       "addedAt": "2026-05-30T22:30:11.714Z"
     }
   ],
-  "lastUpdated": "2026-05-31T18:37:38.258Z"
+  "lastUpdated": "2026-05-31T18:38:06.640Z"
 }
