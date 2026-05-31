@@ -4612,7 +4612,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:49:48.502Z"
+    },
+    {
+      "id": "mpufnfs5380hb4b5f4t",
+      "name": "William Eckert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.eckert.744007",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:50:41.573Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:49:48.502Z"
+  "lastUpdated": "2026-05-31T23:50:41.573Z"
 }
