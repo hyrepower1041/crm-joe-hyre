@@ -4144,7 +4144,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:46:32.306Z"
+    },
+    {
+      "id": "mpub8q5fccsu5i0bvam",
+      "name": "Steve Kayode",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.kayode.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:47:16.707Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:46:32.306Z"
+  "lastUpdated": "2026-05-31T21:47:16.707Z"
 }
