@@ -860,7 +860,7 @@
       
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isNotInterested(l));
         case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
@@ -1804,3 +1804,4 @@
   </div>
 </body>
 </html>
+
