@@ -5027,7 +5027,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:16:47.254Z"
+    },
+    {
+      "id": "mpvrraebmo86lh3zpve",
+      "name": "Josh Rachel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.rachel.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:17:22.787Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:16:47.254Z"
+  "lastUpdated": "2026-06-01T22:17:22.787Z"
 }
