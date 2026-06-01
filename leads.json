@@ -4630,7 +4630,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:50:41.573Z"
+    },
+    {
+      "id": "mpumntxgj5i5m5v02gf",
+      "name": "Jingkle Hemon",
+      "email": "jingklehemon@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-06-01T03:06:57.220Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:50:41.573Z"
+  "lastUpdated": "2026-06-01T03:06:57.220Z"
 }
