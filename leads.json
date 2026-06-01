@@ -4667,7 +4667,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:01:12.243Z"
+    },
+    {
+      "id": "mpvr867yt476845c7h",
+      "name": "Joe Hysell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100088564424515",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:02:30.910Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:01:12.243Z"
+  "lastUpdated": "2026-06-01T22:02:30.910Z"
 }
