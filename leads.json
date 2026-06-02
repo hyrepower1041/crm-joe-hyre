@@ -5333,7 +5333,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T23:58:12.083Z"
+    },
+    {
+      "id": "mpxatpynqh16xr49dvc",
+      "name": "Ayoub Daniel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ayoub.daniel.90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T23:58:55.151Z"
     }
   ],
-  "lastUpdated": "2026-06-02T23:58:12.083Z"
+  "lastUpdated": "2026-06-02T23:58:55.151Z"
 }
