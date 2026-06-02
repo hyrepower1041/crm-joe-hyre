@@ -5279,7 +5279,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T23:56:06.667Z"
+    },
+    {
+      "id": "mpxaqw69y5f5lnxykld",
+      "name": "Kenneth Zeiger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenneth.zeiger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T23:56:43.233Z"
     }
   ],
-  "lastUpdated": "2026-06-02T23:56:06.667Z"
+  "lastUpdated": "2026-06-02T23:56:43.233Z"
 }
