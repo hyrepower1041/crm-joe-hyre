@@ -2568,14 +2568,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61559622314350",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:20:14.835Z"
     },
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-01T22:27:30.103Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:48:54.206Z"
+  "lastUpdated": "2026-06-02T20:49:33.907Z"
 }
