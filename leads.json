@@ -4621,14 +4621,14 @@
       "phone": "",
       "social": "https://www.facebook.com/william.eckert.744007",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:50:41.573Z"
     },
@@ -5605,5 +5605,5 @@
       "addedAt": "2026-06-03T00:38:55.683Z"
     }
   ],
-  "lastUpdated": "2026-06-03T21:14:07.304Z"
+  "lastUpdated": "2026-06-03T21:15:03.452Z"
 }
