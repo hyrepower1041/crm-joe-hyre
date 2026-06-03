@@ -5405,7 +5405,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:00:56.055Z"
+    },
+    {
+      "id": "mpxax4otaguvsye04og",
+      "name": "Taylor Hayes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/taylor.hayes.969",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T00:01:34.205Z"
     }
   ],
-  "lastUpdated": "2026-06-03T00:00:56.055Z"
+  "lastUpdated": "2026-06-03T00:01:34.206Z"
 }
