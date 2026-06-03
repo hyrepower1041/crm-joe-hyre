@@ -5441,7 +5441,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:23:24.850Z"
+    },
+    {
+      "id": "mpxbqho2x2k6bw1955a",
+      "name": "Hubert DeBoorder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hubert.deboorder",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T00:24:24.050Z"
     }
   ],
-  "lastUpdated": "2026-06-03T00:23:24.850Z"
+  "lastUpdated": "2026-06-03T00:24:24.050Z"
 }
