@@ -5639,7 +5639,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:36:27.865Z"
+    },
+    {
+      "id": "mpyrpmej7trfwwbrgv",
+      "name": "Lynette Sheperd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lynette.sheperd.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:39:23.563Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:36:27.865Z"
+  "lastUpdated": "2026-06-04T00:39:23.564Z"
 }
