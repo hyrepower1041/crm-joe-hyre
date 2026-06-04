@@ -5657,7 +5657,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:39:23.563Z"
+    },
+    {
+      "id": "mpyrwx65s6yimybbafc",
+      "name": "Chris Eastburn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.eastburn.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:45:04.109Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:44:35.192Z"
+  "lastUpdated": "2026-06-04T00:45:04.109Z"
 }
