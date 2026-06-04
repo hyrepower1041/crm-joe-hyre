@@ -6118,14 +6118,14 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-06",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
       "notes": "",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:06:21.906Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:40:46.998Z"
+  "lastUpdated": "2026-06-04T14:42:19.666Z"
 }
