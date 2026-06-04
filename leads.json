@@ -6629,7 +6629,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:18:04.209Z"
+    },
+    {
+      "id": "mq0038q9xre1a98qpmk",
+      "name": "William Hallett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.hallett.391",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:21:42.129Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:18:04.209Z"
+  "lastUpdated": "2026-06-04T21:21:42.129Z"
 }
