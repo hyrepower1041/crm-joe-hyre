@@ -6593,7 +6593,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:16:54.006Z"
+    },
+    {
+      "id": "mpzzxt4004s3mdc0pvvd",
+      "name": "Matthew Eaton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matthew.eaton.5076",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:17:28.608Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:16:54.006Z"
+  "lastUpdated": "2026-06-04T21:17:28.608Z"
 }
