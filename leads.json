@@ -5963,7 +5963,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:58:43.867Z"
+    },
+    {
+      "id": "mpysfx45piqbyn0iwra",
+      "name": "Antoine Lomax",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/antoine.lomax",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:59:50.501Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:58:43.867Z"
+  "lastUpdated": "2026-06-04T00:59:50.501Z"
 }
