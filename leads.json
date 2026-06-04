@@ -5125,14 +5125,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kevin.dobyns",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-04",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-07-04",
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:24:37.099Z"
     },
@@ -6127,5 +6127,5 @@
       "addedAt": "2026-06-04T01:06:21.906Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:35:05.606Z"
+  "lastUpdated": "2026-06-04T14:37:33.157Z"
 }
