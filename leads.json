@@ -5621,7 +5621,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:35:39.433Z"
+    },
+    {
+      "id": "mpyrluu1nggtbe5ht2",
+      "name": "Erik Kuhi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/erik.kuhi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:36:27.865Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:35:39.433Z"
+  "lastUpdated": "2026-06-04T00:36:27.865Z"
 }
