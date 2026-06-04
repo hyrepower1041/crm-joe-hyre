@@ -6251,7 +6251,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:54:40.170Z"
+    },
+    {
+      "id": "mpzz735d5g3gh0pbzev",
+      "name": "Michael Ballard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.ballard.3557",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:56:41.905Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:54:40.170Z"
+  "lastUpdated": "2026-06-04T20:56:41.905Z"
 }
