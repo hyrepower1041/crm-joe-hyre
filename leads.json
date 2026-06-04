@@ -6233,7 +6233,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:54:07.003Z"
+    },
+    {
+      "id": "mpzz4h7t8r0wpct4kyi",
+      "name": "Peter Rasborg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Not3u",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:54:40.170Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:54:07.003Z"
+  "lastUpdated": "2026-06-04T20:54:40.170Z"
 }
