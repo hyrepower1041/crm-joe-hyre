@@ -6539,7 +6539,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:15:01.893Z"
+    },
+    {
+      "id": "mpzzvem3qvdfio2vpfh",
+      "name": "Jeremiah Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeremiah.collins.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:15:36.507Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:15:01.893Z"
+  "lastUpdated": "2026-06-04T21:15:36.507Z"
 }
