@@ -6269,7 +6269,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:56:41.905Z"
+    },
+    {
+      "id": "mpzz8cnuhghhs9w3pp",
+      "name": "Paul Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.brown.415758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:57:40.890Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:56:41.905Z"
+  "lastUpdated": "2026-06-04T20:57:40.890Z"
 }
