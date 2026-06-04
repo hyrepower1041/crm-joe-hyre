@@ -5837,7 +5837,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:51:53.698Z"
+    },
+    {
+      "id": "mpys6kueo93hftp9my8",
+      "name": "Brendan Comte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brendan.comte",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:52:34.694Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:51:53.698Z"
+  "lastUpdated": "2026-06-04T00:52:34.694Z"
 }
