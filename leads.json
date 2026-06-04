@@ -6503,7 +6503,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:13:25.441Z"
+    },
+    {
+      "id": "mpzztks8wprsu0opbjd",
+      "name": "Chip Pinard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ChipPinard",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:14:11.192Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:13:25.441Z"
+  "lastUpdated": "2026-06-04T21:14:11.192Z"
 }
