@@ -6143,7 +6143,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:47:58.996Z"
+    },
+    {
+      "id": "mpzyxl2s5xllmv6ov8e",
+      "name": "Ryan Stunden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.stunden",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:49:18.580Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:47:58.996Z"
+  "lastUpdated": "2026-06-04T20:49:18.580Z"
 }
