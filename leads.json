@@ -5765,7 +5765,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:48:43.089Z"
+    },
+    {
+      "id": "mpys3a293knywqf8mzd",
+      "name": "Nicholas Olen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nicholas.olen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:50:00.753Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:48:43.089Z"
+  "lastUpdated": "2026-06-04T00:50:00.753Z"
 }
