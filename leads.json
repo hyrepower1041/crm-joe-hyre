@@ -5413,14 +5413,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.mccann.18488",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-06-02",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
+      "notes": "Health issues, check back in a month",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:23:24.850Z"
     },
@@ -6685,5 +6685,5 @@
       "addedAt": "2026-06-05T13:31:12.238Z"
     }
   ],
-  "lastUpdated": "2026-06-05T14:21:23.916Z"
+  "lastUpdated": "2026-06-05T14:23:16.603Z"
 }
