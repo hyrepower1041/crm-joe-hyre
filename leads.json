@@ -5431,14 +5431,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hubert.deboorder",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
       "notes": "",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:24:24.050Z"
     },
@@ -6685,5 +6685,5 @@
       "addedAt": "2026-06-05T13:31:12.238Z"
     }
   ],
-  "lastUpdated": "2026-06-05T14:20:21.032Z"
+  "lastUpdated": "2026-06-05T14:21:23.916Z"
 }
