@@ -6655,17 +6655,18 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-06",
-      "notes": "Facebook Page",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
-      "addedAt": "2026-06-05T13:31:12.238Z"
+      "addedAt": "2026-06-05T13:31:12.238Z",
+      "customerSince": "2026-06-05"
     }
   ],
-  "lastUpdated": "2026-06-05T15:03:06.281Z"
+  "lastUpdated": "2026-06-05T15:06:34.552Z"
 }
