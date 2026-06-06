@@ -6721,7 +6721,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:44:55.184Z"
+    },
+    {
+      "id": "mq1mt5yx2em8us1416t",
+      "name": "Cory Smeallie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cory.smeallie.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:45:29.337Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:44:55.184Z"
+  "lastUpdated": "2026-06-06T00:45:29.337Z"
 }
