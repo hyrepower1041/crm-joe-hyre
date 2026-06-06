@@ -6901,7 +6901,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:52:51.393Z"
+    },
+    {
+      "id": "mq1n3ax2kbem8ntd7kj",
+      "name": "Mary Anne Santos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mary.anne.santos23",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:53:22.310Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:52:51.393Z"
+  "lastUpdated": "2026-06-06T00:53:22.310Z"
 }
