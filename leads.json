@@ -7351,7 +7351,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:28:37.064Z"
+    },
+    {
+      "id": "mq1odc2l6yc0quur70n",
+      "name": "Brett Hansen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100083566797721",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T01:29:09.981Z"
     }
   ],
-  "lastUpdated": "2026-06-06T01:28:37.064Z"
+  "lastUpdated": "2026-06-06T01:29:09.981Z"
 }
