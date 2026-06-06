@@ -6811,7 +6811,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:47:58.187Z"
+    },
+    {
+      "id": "mq1mz1q5rdqnmktckwn",
+      "name": "Ajay Mishra",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ajay.mishra.692650",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:50:03.773Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:47:58.187Z"
+  "lastUpdated": "2026-06-06T00:50:03.773Z"
 }
