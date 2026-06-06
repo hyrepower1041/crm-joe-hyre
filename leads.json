@@ -6919,7 +6919,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:53:22.310Z"
+    },
+    {
+      "id": "mq1n4w4s8ig7j7qvun6",
+      "name": "Fred Ferguson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/GeezerWiseHQ",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:54:36.460Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:53:22.310Z"
+  "lastUpdated": "2026-06-06T00:54:36.460Z"
 }
