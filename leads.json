@@ -7207,7 +7207,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:22:34.005Z"
+    },
+    {
+      "id": "mq1o5uzwffzqjcfb58i",
+      "name": "Sydney Balmer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100084937262068",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T01:23:21.260Z"
     }
   ],
-  "lastUpdated": "2026-06-06T01:22:34.005Z"
+  "lastUpdated": "2026-06-06T01:23:21.260Z"
 }
