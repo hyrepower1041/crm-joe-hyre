@@ -6847,7 +6847,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:50:49.325Z"
+    },
+    {
+      "id": "mq1n0sufzje6huk7qpd",
+      "name": "Kevin Lee Chabot",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.chabot",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:51:25.575Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:50:49.325Z"
+  "lastUpdated": "2026-06-06T00:51:25.575Z"
 }
