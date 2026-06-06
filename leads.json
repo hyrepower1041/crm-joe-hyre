@@ -6865,7 +6865,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:51:25.575Z"
+    },
+    {
+      "id": "mq1n1n7icyhi4575o4f",
+      "name": "Jackie Brent Norton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jackie.norton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:52:04.926Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:51:25.575Z"
+  "lastUpdated": "2026-06-06T00:52:04.926Z"
 }
