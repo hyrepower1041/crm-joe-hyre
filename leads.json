@@ -6775,7 +6775,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:46:37.004Z"
+    },
+    {
+      "id": "mq1mveh3r84z6ig4zp9",
+      "name": "Ray Whitfield",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bankonyou",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:47:13.671Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:46:37.004Z"
+  "lastUpdated": "2026-06-06T00:47:13.671Z"
 }
