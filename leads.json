@@ -5198,14 +5198,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jerod.wyatt.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:27:30.103Z"
     },
@@ -7895,5 +7895,5 @@
       "addedAt": "2026-06-07T00:39:51.922Z"
     }
   ],
-  "lastUpdated": "2026-06-07T14:04:59.190Z"
+  "lastUpdated": "2026-06-07T14:05:23.672Z"
 }
