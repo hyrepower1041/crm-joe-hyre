@@ -3236,14 +3236,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100092743338353",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:22:28.852Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T20:01:20.551Z"
+  "lastUpdated": "2026-06-07T20:02:30.354Z"
 }
