@@ -7443,7 +7443,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:20:40.722Z"
+    },
+    {
+      "id": "mq31e9b4shp47adz8k7",
+      "name": "Humberto Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/humberto.rodriguez.936625",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:21:34.240Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:20:56.289Z"
+  "lastUpdated": "2026-06-07T00:21:34.240Z"
 }
