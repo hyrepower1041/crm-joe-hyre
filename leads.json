@@ -7911,7 +7911,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T19:35:59.975Z"
+    },
+    {
+      "id": "mq46nlc7oueg268yivh",
+      "name": "Jeff Payne",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Michael Angel Profile ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T19:35:59.975Z"
+  "lastUpdated": "2026-06-07T19:36:33.991Z"
 }
