@@ -6460,14 +6460,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeffrey.haynes.395",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:13:25.441Z"
     },
@@ -7895,5 +7895,5 @@
       "addedAt": "2026-06-07T00:39:51.922Z"
     }
   ],
-  "lastUpdated": "2026-06-07T13:49:58.289Z"
+  "lastUpdated": "2026-06-07T13:50:24.789Z"
 }
