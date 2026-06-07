@@ -3398,14 +3398,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andre.shepherd.807473",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:29:42.955Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T19:52:24.820Z"
+  "lastUpdated": "2026-06-07T19:53:06.954Z"
 }
