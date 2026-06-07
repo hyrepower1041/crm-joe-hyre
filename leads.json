@@ -7587,7 +7587,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:27:45.930Z"
+    },
+    {
+      "id": "mq31naw6ujwu0is4yx",
+      "name": "Raquel Angel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/raquel.angel.985925",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:28:36.198Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:27:45.930Z"
+  "lastUpdated": "2026-06-07T00:28:36.198Z"
 }
