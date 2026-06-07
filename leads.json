@@ -7353,7 +7353,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:29:09.981Z"
+    },
+    {
+      "id": "mq317y1vd9ovxhgokzc",
+      "name": "Josh Lucker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.lucker.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:16:39.715Z"
     }
   ],
-  "lastUpdated": "2026-06-06T22:04:36.320Z"
+  "lastUpdated": "2026-06-07T00:16:39.715Z"
 }
