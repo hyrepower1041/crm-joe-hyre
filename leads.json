@@ -8127,7 +8127,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:35:16.299Z"
+    },
+    {
+      "id": "mq5unf9nyh41zv55tok",
+      "name": "Jordan Lung",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.lung.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:36:03.083Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:35:16.299Z"
+  "lastUpdated": "2026-06-08T23:36:03.083Z"
 }
