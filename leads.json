@@ -8307,7 +8307,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:44:40.985Z"
+    },
+    {
+      "id": "mq5uz75wiicd5pu55pr",
+      "name": "Eduardo Estrada",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eduardo.estrada.763747",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:45:12.452Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:44:40.985Z"
+  "lastUpdated": "2026-06-08T23:45:12.452Z"
 }
