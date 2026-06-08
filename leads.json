@@ -8361,7 +8361,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:46:54.135Z"
+    },
+    {
+      "id": "mq5v5vuqm5z3wotucw",
+      "name": "Jimmy Aguilar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jimmy.aguilar.68708",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:50:24.386Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:47:08.568Z"
+  "lastUpdated": "2026-06-08T23:50:24.386Z"
 }
