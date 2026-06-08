@@ -8091,7 +8091,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:33:53.331Z"
+    },
+    {
+      "id": "mq5ull8bhexk3r66n0a",
+      "name": "Ryan Wickline",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.wickline.795280",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:34:37.499Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:33:53.331Z"
+  "lastUpdated": "2026-06-08T23:34:37.499Z"
 }
