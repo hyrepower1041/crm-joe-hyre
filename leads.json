@@ -8883,7 +8883,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:48:35.720Z"
+    },
+    {
+      "id": "mq7cprq43cxsxioqohe",
+      "name": "Ketan Rao",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ketan.rao.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:49:31.804Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:48:35.720Z"
+  "lastUpdated": "2026-06-10T00:49:31.804Z"
 }
