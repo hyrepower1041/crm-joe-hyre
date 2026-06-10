@@ -8901,7 +8901,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:49:31.804Z"
+    },
+    {
+      "id": "mq7cqji3uzxzatznvd9",
+      "name": "Tom E Engan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rocknrollmarketer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:50:07.803Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:49:31.804Z"
+  "lastUpdated": "2026-06-10T00:50:07.803Z"
 }
